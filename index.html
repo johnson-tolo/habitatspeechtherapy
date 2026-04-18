@@ -38,12 +38,42 @@
       "addressLocality": "Palm Beach County",
       "addressCountry": "US"
     },
-    "areaServed": {
-      "@type": "AdministrativeArea",
-      "name": "Palm Beach County, Florida"
-    },
+    "areaServed": [
+      { "@type": "City", "name": "Delray Beach", "addressRegion": "FL" },
+      { "@type": "City", "name": "Boca Raton", "addressRegion": "FL" },
+      { "@type": "City", "name": "Boynton Beach", "addressRegion": "FL" },
+      { "@type": "City", "name": "Aberdeen", "addressRegion": "FL" },
+      { "@type": "City", "name": "Lake Worth", "addressRegion": "FL" },
+      { "@type": "City", "name": "Wellington", "addressRegion": "FL" },
+      { "@type": "City", "name": "Lantana", "addressRegion": "FL" },
+      { "@type": "City", "name": "Palm Beach", "addressRegion": "FL" },
+      { "@type": "City", "name": "West Palm Beach", "addressRegion": "FL" },
+      { "@type": "City", "name": "Westgate", "addressRegion": "FL" }
+    ],
     "medicalSpecialty": "Speech-Language Pathology",
     "priceRange": "Contact for pricing",
+    "founder": {
+      "@type": "Person",
+      "name": "Athena",
+      "jobTitle": "Speech-Language Pathologist",
+      "hasCredential": [
+        { "@type": "EducationalOccupationalCredential", "credentialCategory": "degree", "name": "M.S. Communication Science and Disorders, New York University" },
+        { "@type": "EducationalOccupationalCredential", "credentialCategory": "degree", "name": "M.S. Human Factors" },
+        { "@type": "EducationalOccupationalCredential", "credentialCategory": "certification", "name": "Certificate of Clinical Competency in Speech-Language Pathology (CCC-SLP)" },
+        { "@type": "EducationalOccupationalCredential", "credentialCategory": "certification", "name": "PROMPT Level 1 Certification" }
+      ]
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Speech Therapy Services",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Speech and Language Evaluations", "areaServed": "Palm Beach County, FL" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Early Intervention Toddler Speech Therapy", "areaServed": "Palm Beach County, FL" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Articulation and Speech Sound Therapy", "areaServed": "Palm Beach County, FL" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Receptive and Expressive Language Therapy", "areaServed": "Palm Beach County, FL" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Social Communication Therapy", "areaServed": "Palm Beach County, FL" } }
+      ]
+    },
     "sameAs": [
       "https://www.instagram.com/habitatspeechtherapy",
       "https://www.facebook.com/habitatspeechtherapyllc"
@@ -147,6 +177,27 @@
       <div class="text-center mt-3">
         <a href="services.html" class="btn btn--primary">View All Services</a>
       </div>
+    </div>
+  </section>
+
+  <!-- Service Areas -->
+  <section class="section section--beige" aria-labelledby="areas-heading">
+    <div class="container" style="text-align: center;">
+      <h2 id="areas-heading">Areas We Serve</h2>
+      <p style="color: #555; max-width: 620px; margin: 0 auto 2rem;">Habitat Speech Therapy provides in-home pediatric speech therapy throughout Palm Beach County, Florida — coming directly to your family wherever you are.</p>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem;">
+        <span class="badge" style="font-size: 0.9rem; padding: 0.5rem 1.1rem;">Delray Beach</span>
+        <span class="badge" style="font-size: 0.9rem; padding: 0.5rem 1.1rem;">Boca Raton</span>
+        <span class="badge" style="font-size: 0.9rem; padding: 0.5rem 1.1rem;">Boynton Beach</span>
+        <span class="badge" style="font-size: 0.9rem; padding: 0.5rem 1.1rem;">Aberdeen</span>
+        <span class="badge" style="font-size: 0.9rem; padding: 0.5rem 1.1rem;">Lake Worth</span>
+        <span class="badge" style="font-size: 0.9rem; padding: 0.5rem 1.1rem;">Wellington</span>
+        <span class="badge" style="font-size: 0.9rem; padding: 0.5rem 1.1rem;">Lantana</span>
+        <span class="badge" style="font-size: 0.9rem; padding: 0.5rem 1.1rem;">Palm Beach</span>
+        <span class="badge" style="font-size: 0.9rem; padding: 0.5rem 1.1rem;">West Palm Beach</span>
+        <span class="badge" style="font-size: 0.9rem; padding: 0.5rem 1.1rem;">Westgate</span>
+      </div>
+      <p style="color: #888; font-size: 0.9rem; margin-top: 1.5rem;">Don't see your city? <a href="contact.html">Reach out</a> — we may still be able to help.</p>
     </div>
   </section>
 
