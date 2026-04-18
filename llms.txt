@@ -4,7 +4,7 @@
 ## About
 Habitat Speech Therapy is a private practice offering concierge-level, in-home pediatric speech and language therapy in Palm Beach County, Florida. The practice is founded and led by Athena, a licensed speech-language pathologist with over a decade of clinical experience working with children in New York, California, and Florida.
 
-The practice operates as an elevated alternative — or supplement — to traditional clinic or school-based speech therapy. Sessions are held in the child's home, allowing therapy to be woven into familiar routines and environments. Services are also available at participating private schools and daycare programs.
+The practice operates as an elevated alternative - or supplement - to traditional clinic or school-based speech therapy. Sessions are held in the child's home, allowing therapy to be woven into familiar routines and environments. Services are also available at participating private schools and daycare programs.
 
 ## Therapist
 - Name: Athena
@@ -13,11 +13,11 @@ The practice operates as an elevated alternative — or supplement — to tradit
 - Experience: 10+ years, spanning Pre-K through 12th grade settings, early intervention (Southern California), and private in-home practice (Palm Beach County, FL)
 
 ## Services
-- Speech and Language Evaluations — comprehensive assessments for children of all ages
-- Early Intervention Toddler Speech Therapy — for children ages 18 months to 3 years with developmental delays or disabilities
-- Articulation and Speech Sound Therapy — improving speech clarity for children with speech delays or disorders; PROMPT-certified for apraxia of speech
-- Receptive and Expressive Language Therapy — building understanding (following directions, comprehending questions) and expression (vocabulary, grammar, sentence structure)
-- Social Communication — pragmatic therapy targeting social skills and peer interaction
+- Speech and Language Evaluations - comprehensive assessments for children of all ages
+- Early Intervention Toddler Speech Therapy - for children ages 18 months to 3 years with developmental delays or disabilities
+- Articulation and Speech Sound Therapy - improving speech clarity for children with speech delays or disorders; PROMPT-certified for apraxia of speech
+- Receptive and Expressive Language Therapy - building understanding (following directions, comprehending questions) and expression (vocabulary, grammar, sentence structure)
+- Social Communication - pragmatic therapy targeting social skills and peer interaction
 
 ## Service Area
 Habitat Speech Therapy serves families throughout Palm Beach County, Florida, including:
