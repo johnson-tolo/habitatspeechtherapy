@@ -160,14 +160,14 @@ p:last-child { margin-bottom: 0; }
 }
 
 .nav__logo-name {
-  font-size: 2rem;
+  font-size: 1.75rem;
   font-weight: 800;
   color: var(--teal);
   letter-spacing: -0.02em;
 }
 
 .nav__logo-sub {
-  font-size: 0.7rem;
+  font-size: 1rem;
   font-weight: 500;
   color: var(--sage);
   letter-spacing: 0.12em;
