@@ -242,12 +242,9 @@ p:last-child { margin-bottom: 0; }
 
 /* --- Hero --- */
 .hero {
-  /* Replace gradient below with a photo:
-     background-image: url('images/hero.jpg');
-     background-size: cover;
-     background-position: center;
-  */
-  background: linear-gradient(135deg, var(--teal) 0%, #3d7a5e 50%, var(--teal-dark) 100%);
+  background-image: url('images/leaves.jpg');
+  background-size: cover;
+  background-position: center;
   color: var(--white);
   padding: 5rem 1.5rem;
   text-align: center;
@@ -259,7 +256,7 @@ p:last-child { margin-bottom: 0; }
   content: '';
   position: absolute;
   inset: 0;
-  background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.04'%3E%3Ccircle cx='30' cy='30' r='20'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  background: rgba(30, 70, 45, 0.55);
   pointer-events: none;
 }
 
