@@ -272,7 +272,7 @@ p:last-child { margin-bottom: 0; }
 .hero h1 {
   color: var(--white);
   margin-bottom: 1.2rem;
-  font-weight: 800;
+  font-weight: 700;
 }
 
 .hero__sub {
@@ -299,7 +299,7 @@ p:last-child { margin-bottom: 0; }
 
 .card:hover {
   transform: translateY(-3px);
-  box-shadow: 0 6px 24px rgba(0,0,0,0.12);
+  box-shadow: 0 6px 24px rgba(0,0,0,0.27);
 }
 
 .card__icon {
@@ -327,6 +327,15 @@ p:last-child { margin-bottom: 0; }
   padding: 0.35rem 0.9rem;
   border-radius: 50px;
   border: 1px solid rgba(45, 98, 74, 0.2);
+}
+
+.area-bubbles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+  max-width: 750px;
+  margin: 0 auto;
 }
 
 /* --- Two-column layout --- */
